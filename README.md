@@ -1,1 +1,1 @@
-# PrepRepositorio2023Readme
+Este proyecto es una prueba de como creazr un repositorio y clonarlo de Github a mi escritorio local
